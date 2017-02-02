@@ -1,3 +1,4 @@
 # Daniel Mitre - Computer Science student at UFCG
 
-This is my github testing file
+Arquivo criado durante a aula de Laboratório de Programação 2, onde nos foi introduzido o uso do github
+
